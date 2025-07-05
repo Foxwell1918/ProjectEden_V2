@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "755ccc0b285b872a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b1cb79cc2281bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb34a5358ad1375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/Modeling/3D Modeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3D Modeling"
+            }
+          },
+          {
+            "id": "0cf1f168e8d9b315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/Texturing/Normal Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normal Map"
+            }
+          },
+          {
+            "id": "a60037ef82b366c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/Texturing/Tangent Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tangent Space"
+            }
+          },
+          {
+            "id": "f71f46f04fd55b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/BVisual Improvement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BVisual Improvement"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "12d81cb1a35cf328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b58ce817bcd855b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aa56161d39dbfc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "55f901d6c4ac1dbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d437f73b2ba5f4f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82eebeaf2eb95fb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "965da73b55c6306d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea44a53ee08345f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7795c930fc2deba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08881ca2593ba755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thesis Body/7 Application in Unreal Engine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7 Application in Unreal Engine"
+            }
+          },
+          {
+            "id": "7a1a1d8b05b1d946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thesis Body/7 Application in Unreal Engine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7 Application in Unreal Engine"
+            }
+          },
+          {
+            "id": "e62c0ffa3a907775",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0cec42e64d8fdc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thesis Body/7 Application in Unreal Engine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7 Application in Unreal Engine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f71f46f04fd55b6e",
+  "lastOpenFiles": [
+    "Thesis Body/3 Subd Modeling.md",
+    "Notes/BVisual Improvement.md",
+    "Notes",
+    "Pasted image 20250315143337.png",
+    "Pasted image 20250315143329.png",
+    "Thesis Body/2.5 UV Mapping.md",
+    "Pasted image 20250315140731.png",
+    "Pasted image 20250315135948.png",
+    "Pasted image 20250315135931.png",
+    "Thesis Body/2 Low-poly Modeling.md",
+    "Pasted image 20250315124255.png",
+    "Pasted image 20250315120348.png",
+    "Pasted image 20250315113154.png",
+    "Pasted image 20250315113137.png",
+    "Pasted image 20250315113121.png",
+    "Thesis Body/1 Blocking.md",
+    "Thesis Body/7 Application in Unreal Engine.md",
+    "Thesis Body/6 Rendering.md",
+    "Thesis Body/5 Texturing.md",
+    "Thesis Body/4 Normal Map Baking.md",
+    "Theories/Texturing/Vector Space.md",
+    "Theories/Texturing/Tangent Space.md",
+    "Theories/Modeling/Polygonal Modeling.md",
+    "Theories/Texturing/Normal Map.md",
+    "Theories/Modeling/3D Modeling.md",
+    "Theories/Rendering",
+    "Theories/Texturing",
+    "Theories/Modeling",
+    "Theories",
+    "Thesis Body"
+  ]
+}

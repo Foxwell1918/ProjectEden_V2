@@ -1,0 +1,1 @@
+Eddie was expelled due to the [[Duel]] he had with Davies Mortimer

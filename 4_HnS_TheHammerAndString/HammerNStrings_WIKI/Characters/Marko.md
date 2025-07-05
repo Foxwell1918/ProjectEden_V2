@@ -1,0 +1,1 @@
+Marko was too anxious about the future, "What if i don't get to perform? What if i'm a bad guitarist? etc"

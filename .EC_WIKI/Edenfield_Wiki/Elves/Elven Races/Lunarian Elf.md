@@ -1,0 +1,1 @@
+Lunarian Elf is an elf who lived in the distant island of [[Lunaria]]

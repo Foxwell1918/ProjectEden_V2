@@ -1,0 +1,1 @@
+Located across the port town of [[Osthaven]] Aella Academy was the one of the only Magic Academy near [[Weshaven]], people from [[Weshaven]] need to go on a ferry to get to the academy
