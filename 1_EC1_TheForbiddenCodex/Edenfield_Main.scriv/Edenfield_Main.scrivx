@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-07-11 03:14:53 +0700" ModID="7A76FA39-4F70-4023-9B31-C2CDAE0CA972">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="LAPTOP-U1QU39AL" Modified="2025-07-14 20:41:33 +0700" ModID="003A6D20-E41C-4005-AADE-F23A3D342399">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-07 01:50:52 +0700" Modified="2021-03-04 17:13:23 +0700">
             <Title>Novel Format</Title>
@@ -256,14 +256,14 @@
                                                         <TextSelection>4141,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="B1BD0293-4B87-4FC6-A88C-5D1A5873F3DC" Type="Text" Created="2025-02-13 05:17:48 +0700" Modified="2025-02-14 05:48:03 +0700">
+                                                <BinderItem UUID="B1BD0293-4B87-4FC6-A88C-5D1A5873F3DC" Type="Text" Created="2025-02-13 05:17:48 +0700" Modified="2025-07-14 20:26:51 +0700">
                                                     <Title>[REV] Chapter 1</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                         <NotesTextSelection>545,0</NotesTextSelection>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>12597,0</TextSelection>
+                                                        <TextSelection Caret="3201">2894,307</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="29870DF6-F35D-40A7-BC4F-07C7B5304730" Type="Text" Created="2025-02-13 05:17:55 +0700" Modified="2025-04-05 06:34:53 +0700">
@@ -273,7 +273,7 @@
                                                         <NotesTextSelection>372,0</NotesTextSelection>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection Caret="10120">0,10120</TextSelection>
+                                                        <TextSelection>8815,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="B9271A6A-CA2A-4C2B-8DA7-5D63BD864DCD" Type="Text" Created="2025-02-13 05:18:03 +0700" Modified="2025-02-16 10:36:14 +0700">
@@ -321,7 +321,25 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection Caret="22147">0,22147</TextSelection>
+                                                        <TextSelection>20597,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="60CDF08E-FB74-4256-A5BF-C063762BF3AE" Type="Text" Created="2025-07-14 19:47:16 +0700" Modified="2025-07-14 19:52:16 +0700">
+                                                    <Title>[REV] Chapter 5</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>18782,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="7D565A73-D5D1-46FD-B722-A7C1C1A5AD2B" Type="Text" Created="2025-07-14 19:52:21 +0700" Modified="2025-07-14 20:12:11 +0700">
+                                                    <Title>[REV] Chapter 5 V2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>3249,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="304D59D7-E967-4C2E-9AC5-17D7B7279A6F" Type="Text" Created="2025-02-22 09:28:17 +0700" Modified="2025-02-22 10:52:05 +0700">
@@ -331,7 +349,7 @@
                                                         <NotesTextSelection Caret="1755">1576,179</NotesTextSelection>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection Caret="14696">0,14696</TextSelection>
+                                                        <TextSelection>13035,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="2CE62A37-C17B-4341-B302-8F2182AD82A3" Type="Text" Created="2025-02-22 14:46:13 +0700" Modified="2025-02-22 15:49:10 +0700">
@@ -1282,22 +1300,23 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="14A66FB6-D03E-4AF9-B82A-87028D691E96" Type="Text" Created="2025-07-11 02:05:52 +0700" Modified="2025-07-11 02:50:28 +0700">
+                                        <BinderItem UUID="14A66FB6-D03E-4AF9-B82A-87028D691E96" Type="Text" Created="2025-07-11 02:05:52 +0700" Modified="2025-07-14 20:17:58 +0700">
                                             <Title>Prologue</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2300,0</TextSelection>
+                                                <TextSelection Caret="3997">0,3997</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="78F12BDE-658A-49D6-A6DD-A90077E75A9B" Type="Text" Created="2025-07-11 02:51:22 +0700" Modified="2025-07-11 03:14:44 +0700">
+                                        <BinderItem UUID="78F12BDE-658A-49D6-A6DD-A90077E75A9B" Type="Text" Created="2025-07-11 02:51:22 +0700" Modified="2025-07-14 20:36:20 +0700">
                                             <Title>Chapter 1</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>141,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>467,0</TextSelection>
+                                                <TextSelection>2822,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2866,13 +2885,13 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-01-19 00:00:00 +0700" IgnoreDeadline="Yes">500000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">2000</SessionTarget>
-        <PreviousSession Words="782" Characters="4461" Date="2025-07-11 03:14:53 +0700"/>
+        <PreviousSession Words="-59" Characters="-310" Date="2025-07-14 20:41:33 +0700"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-07-11 00:00:00 +0700">
-        <DraftWordCount>792</DraftWordCount>
-        <DraftCharCount>4519</DraftCharCount>
+    <RecentWritingHistory Date="2025-07-14 00:00:00 +0700">
+        <DraftWordCount>-59</DraftWordCount>
+        <DraftCharCount>-310</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
