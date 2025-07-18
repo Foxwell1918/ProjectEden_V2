@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-07-17 14:29:51 +0700" ModID="75B6B3F6-F8CB-4A73-A140-D0C5FA7C5931">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-07-17 16:52:29 +0700" ModID="9D481DB6-6030-4084-9CB5-3007A840F0F4">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-07 01:50:52 +0700" Modified="2021-03-04 17:13:23 +0700">
             <Title>Novel Format</Title>
@@ -1291,13 +1291,14 @@
                                                 <TextSelection>2300,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="78F12BDE-658A-49D6-A6DD-A90077E75A9B" Type="Text" Created="2025-07-11 02:51:22 +0700" Modified="2025-07-11 03:14:44 +0700">
+                                        <BinderItem UUID="78F12BDE-658A-49D6-A6DD-A90077E75A9B" Type="Text" Created="2025-07-11 02:51:22 +0700" Modified="2025-07-17 16:23:27 +0700">
                                             <Title>Chapter 1</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>141,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>467,0</TextSelection>
+                                                <TextSelection>2983,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2149,7 +2150,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1300,0</TextSelection>
+                        <TextSelection>963,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2402,6 +2403,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>167,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="42BBA98E-1B98-4083-832A-81C45E53C6F7" Type="Text" Created="2025-07-17 16:50:21 +0700" Modified="2025-07-17 16:52:23 +0700">
+                            <Title>Welton's Apothecary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>362,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2802,6 +2812,38 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem UUID="242D3C3A-0EA9-4231-9693-C9A7399BAC1C" Type="Folder" Created="2025-07-17 14:36:12 +0700" Modified="2025-07-17 14:36:12 +0700">
+            <Title>Recovered Files (7/17/2025, 2:36 PM)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="60CDF08E-FB74-4256-A5BF-C063762BF3AE" Type="Text" Created="2025-07-17 14:36:12 +0700" Modified="2025-07-17 14:36:12 +0700">
+                    <Title>Recovered File-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7D565A73-D5D1-46FD-B722-A7C1C1A5AD2B" Type="Text" Created="2025-07-17 14:36:12 +0700" Modified="2025-07-17 14:36:12 +0700">
+                    <Title>Recovered File-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.164706 0.164706 0.164706">
@@ -2877,15 +2919,15 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-01-19 00:00:00 +0700" IgnoreDeadline="Yes">500000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">2000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-07-17 14:29:51 +0700"/>
+        <PreviousSession Words="434" Characters="2516" Date="2025-07-17 16:52:29 +0700"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-07-17 00:00:00 +0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>230</OtherWordCount>
-        <OtherCharCount>1302</OtherCharCount>
+        <DraftWordCount>434</DraftWordCount>
+        <DraftCharCount>2516</DraftCharCount>
+        <OtherWordCount>293</OtherWordCount>
+        <OtherCharCount>1664</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
