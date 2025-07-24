@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="A3E4D7DA-B159-499A-AB2D-06AADA38A834" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-07-24 13:04:15 +0700" ModID="C85B2EDB-B122-4757-A63D-3F0422039AD3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="A3E4D7DA-B159-499A-AB2D-06AADA38A834" Creator="SCRWIN-3.1.5.1" Device="LAPTOP-U1QU39AL" Modified="2025-07-24 20:20:13 +0700" ModID="C7F14AAC-4E77-41C3-9894-AE5713BAE1EA">
     <Binder>
         <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2018-07-26 22:40:09 +0700" Modified="2025-07-24 13:02:53 +0700">
             <Title>Screenplay Format</Title>
@@ -35,34 +35,44 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2018-07-26 22:40:09 +0700" Modified="2025-07-24 12:32:06 +0700">
+                        <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2018-07-26 22:40:09 +0700" Modified="2025-07-24 20:13:34 +0700">
                             <Title>E1S1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>2073,0</TextSelection>
+                                <TextSelection>2010,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9B7494B1-09F0-4DCD-B028-CB2EBCB30C2F" Type="Text" Created="2025-07-24 12:35:16 +0700" Modified="2025-07-24 13:03:53 +0700">
+                        <BinderItem UUID="9B7494B1-09F0-4DCD-B028-CB2EBCB30C2F" Type="Text" Created="2025-07-24 12:35:16 +0700" Modified="2025-07-24 20:17:02 +0700">
                             <Title>E1S2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>1873,0</TextSelection>
+                                <TextSelection>1843,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3FD74013-160C-4904-8B45-CC14D1C75E64" Type="Text" Created="2025-07-24 12:54:44 +0700" Modified="2025-07-24 13:02:59 +0700">
+                        <BinderItem UUID="3FD74013-160C-4904-8B45-CC14D1C75E64" Type="Text" Created="2025-07-24 12:54:44 +0700" Modified="2025-07-24 20:18:29 +0700">
                             <Title>E1S3</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2499,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="19DF2CFB-83BD-4928-BAFE-E5AA2702DE82" Type="Text" Created="2025-07-24 19:42:22 +0700" Modified="2025-07-24 20:10:36 +0700">
+                            <Title>E1S4</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>3315,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -330,7 +340,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-07-23 16:18:31 +0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="380" Characters="2037" Date="2025-07-24 13:04:15 +0700"/>
+        <PreviousSession Words="1481" Characters="8020" Date="2025-07-24 20:20:13 +0700"/>
     </ProjectTargets>
     <AutoCompleteList>
         <Completion Scope="0">HOUSE</Completion>
@@ -346,12 +356,16 @@
         <Completion Scope="0">UPHILL FOREST</Completion>
         <Completion Scope="2">TOMMY</Completion>
         <Completion Scope="2">LILY</Completion>
+        <Completion Scope="2">SARAH</Completion>
+        <Completion Scope="0">UPSTAIRS HALL</Completion>
+        <Completion Scope="0">JOHNNY'S ROOM</Completion>
+        <Completion Scope="2">MEDICAL DOCTOR</Completion>
     </AutoCompleteList>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-07-24 00:00:00 +0700">
-        <DraftWordCount>665</DraftWordCount>
-        <DraftCharCount>3570</DraftCharCount>
+        <DraftWordCount>1766</DraftWordCount>
+        <DraftCharCount>9553</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
