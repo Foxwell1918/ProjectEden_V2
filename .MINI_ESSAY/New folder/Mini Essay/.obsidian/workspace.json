@@ -13,28 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Being Articulate.md",
+                "file": "Psychology/Jung/Symbols.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Being Articulate"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8609a8b95434e662",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "965aa41ff8e0b55b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              }
             }
           }
         ]
@@ -56,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -75,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -85,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Being Articulate.md",
+                "file": "Psychology/Jung/Symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Being Articulate"
+              }
             }
           },
           {
@@ -129,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Being Articulate.md",
+                "file": "Psychology/Jung/Symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Being Articulate"
+              }
             }
           },
           {
@@ -144,12 +115,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -158,13 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Being Articulate.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Being Articulate"
+                "file": "Psychology/Jung/Symbols.md"
+              }
             }
           }
         ]
@@ -181,14 +143,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e78fdf61d909b2b4",
   "lastOpenFiles": [
-    "1Tags/Philosophy/Rhetoric.md",
+    "Psychology/Jung/1Roadmap.md",
+    "Psychology/Jung/Symbols.md",
+    "Psychology/Jung/Anima n Animus.md",
+    "Psychology/Jung/Carl Gustav Jung E.md",
+    "1Tags/Psychology E.md",
+    "Psychology/Jung",
     "Communication/Being Articulate.md",
+    "Psychology/Jung",
+    "Psychology",
+    "1Tags/Philosophy/Rhetoric.md",
     "1Tags/Philosophy",
     "Writing Tips",
     "1Tags",
@@ -197,8 +166,6 @@
     "Welcome.md",
     "Uncategorized",
     "Communication",
-    "Jesse_Schell",
-    "Tan_Malaka",
-    "Carl_Jung"
+    "Jesse_Schell"
   ]
 }
