@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3a48c1dd1067d090","type":"text","text":"Nadia (Fake Opponent Ally)","x":-560,"y":50,"width":250,"height":60,"color":"2"},
+		{"id":"ceb1636c59d0802c","type":"text","text":"Dharma (Hero)","x":-140,"y":-320,"width":250,"height":60,"color":"5"},
+		{"id":"324a982d50272f7f","type":"text","text":"Mr. Hapsoro (Mentor)","x":280,"y":20,"width":250,"height":60,"color":"4"},
+		{"id":"9c6fd030fb10cc0a","x":-15,"y":400,"width":250,"height":60,"color":"1","type":"text","text":"Sofia (True Villain)"},
+		{"id":"9751f7fdc8a6b462","x":-480,"y":-560,"width":250,"height":60,"color":"3","type":"text","text":"Tony (Subplot Character)"},
+		{"id":"627ce38750010d37","x":-730,"y":-460,"width":250,"height":60,"color":"3","type":"text","text":"Arief (Ally, fellow Pianist)"}
+	],
+	"edges":[
+		{"id":"3ef2a58a6146a61c","fromNode":"ceb1636c59d0802c","fromSide":"bottom","toNode":"9c6fd030fb10cc0a","toSide":"top","color":"5","label":"friendly rivalry"},
+		{"id":"c5842c1107c5e751","fromNode":"3a48c1dd1067d090","fromSide":"bottom","toNode":"9c6fd030fb10cc0a","toSide":"left","color":"2","label":"competitive rivalry"},
+		{"id":"69653671af49b2c1","fromNode":"ceb1636c59d0802c","fromSide":"left","toNode":"3a48c1dd1067d090","toSide":"top","color":"5","label":"Adoration and annoyance"},
+		{"id":"8226fa46a1ae966d","fromNode":"3a48c1dd1067d090","fromSide":"right","toNode":"ceb1636c59d0802c","toSide":"bottom","color":"2","label":"Bigger Sister figure"},
+		{"id":"60c98d52850965fc","fromNode":"ceb1636c59d0802c","fromSide":"right","toNode":"324a982d50272f7f","toSide":"top","color":"5","label":"Teacher, Mentor"},
+		{"id":"fdc63b0c7b718d56","fromNode":"3a48c1dd1067d090","fromSide":"bottom","toNode":"324a982d50272f7f","toSide":"left","color":"2","label":"Respect and Adoration"},
+		{"id":"5a98e0b3f92bde78","fromNode":"ceb1636c59d0802c","fromSide":"top","toNode":"9751f7fdc8a6b462","toSide":"right","color":"5","label":"Close Friend from basketball"},
+		{"id":"93b453b37b7b491b","fromNode":"3a48c1dd1067d090","fromSide":"top","toNode":"9751f7fdc8a6b462","toSide":"bottom","color":"2","label":"Obstacle to Dharma"},
+		{"id":"497ce54acc8cda20","fromNode":"ceb1636c59d0802c","fromSide":"left","toNode":"627ce38750010d37","toSide":"right","color":"5","label":"Fellow Pianist"}
+	]
+}

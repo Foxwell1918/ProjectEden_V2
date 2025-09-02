@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"0ae49c2d850b3cb5","type":"text","text":"ACT 1","x":60,"y":-520,"width":250,"height":60},
+		{"id":"c7216f35124ca5d2","x":-400,"y":-420,"width":250,"height":60,"type":"text","text":"OPENING IMAGE"},
+		{"id":"6598370a9927493b","type":"text","text":"THEME STATED","x":-400,"y":-320,"width":250,"height":60},
+		{"id":"0f37d22fd2a0a13e","type":"text","text":"SETUP","x":-400,"y":-220,"width":250,"height":60},
+		{"id":"0a152fa2e90a79f3","type":"text","text":"CATALYST","x":-400,"y":-130,"width":250,"height":60},
+		{"id":"691c86ab361687ed","type":"text","text":"DEBATE","x":-400,"y":-40,"width":250,"height":60},
+		{"id":"01b86f27d355f133","type":"text","text":"BREAK INTO 2","x":-400,"y":60,"width":250,"height":60},
+		{"id":"5ab9983d0ec73b31","type":"text","text":"ACT 2 A","x":60,"y":120,"width":250,"height":60},
+		{"id":"83d73fee3a852dbc","type":"text","text":"B STORY","x":-400,"y":200,"width":250,"height":60},
+		{"id":"34a469d0310f9129","type":"text","text":"FUN AND GAMES","x":-400,"y":290,"width":250,"height":60},
+		{"id":"3d91b50fab75253c","type":"text","text":"MIDPOINT","x":-400,"y":370,"width":250,"height":60},
+		{"id":"e2c061086dd0a4aa","type":"text","text":"ACT 2 B","x":60,"y":430,"width":250,"height":60},
+		{"id":"d61f4c089ab67420","type":"text","text":"BAD GUYS CLOSE IN","x":-400,"y":540,"width":250,"height":60},
+		{"id":"e9576c69b9a85902","type":"text","text":"ALL IS LOST","x":-400,"y":630,"width":250,"height":60},
+		{"id":"17255d217f4813f5","type":"text","text":"DARK NIGHT OF THE SOUL","x":-400,"y":720,"width":250,"height":60},
+		{"id":"b2b72dd3a53828d1","type":"text","text":"BREAK INTO 3","x":-400,"y":920,"width":250,"height":60},
+		{"id":"f16c686934156d3f","type":"text","text":"FINALE","x":-400,"y":1020,"width":250,"height":60},
+		{"id":"a61135ee6b8ee113","type":"text","text":"FINAL IMAGE","x":-400,"y":1120,"width":250,"height":60},
+		{"id":"4eaf745a5666fb22","type":"text","text":"ACT 3","x":60,"y":800,"width":250,"height":60}
+	],
+	"edges":[]
+}

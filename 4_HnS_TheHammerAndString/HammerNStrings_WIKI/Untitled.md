@@ -1,0 +1,1 @@
+subplot is used to contrast how the hero and a second character deal with the same problem in slightly different ways. Through comparison, the subplot character highlights traits and dilemmas of the main character.

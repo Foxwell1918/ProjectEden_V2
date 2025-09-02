@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "59317a6bbe6a7bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9836e7b777015236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78fdf61d909b2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Being Articulate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Being Articulate"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8609a8b95434e662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "965aa41ff8e0b55b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95bab58215d57b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "348e276e95f29ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7861fb5b919b55a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ddcec254b522896",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21bfa1d1dc811a20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16452e587aab1dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82143fff3320105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31544cf81ed536f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Communication/Being Articulate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Being Articulate"
+            }
+          },
+          {
+            "id": "12bf6834ddae84e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Communication/Being Articulate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Being Articulate"
+            }
+          },
+          {
+            "id": "2db99355317be8a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf0fc7c74efefc83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Communication/Being Articulate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Being Articulate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e78fdf61d909b2b4",
+  "lastOpenFiles": [
+    "1Tags/Philosophy/Rhetoric.md",
+    "Communication/Being Articulate.md",
+    "1Tags/Philosophy",
+    "Writing Tips",
+    "1Tags",
+    "Untitled.base",
+    "2025-09-02.md",
+    "Welcome.md",
+    "Uncategorized",
+    "Communication",
+    "Jesse_Schell",
+    "Tan_Malaka",
+    "Carl_Jung"
+  ]
+}

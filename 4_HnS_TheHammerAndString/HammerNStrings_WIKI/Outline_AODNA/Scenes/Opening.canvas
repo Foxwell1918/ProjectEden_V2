@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"c2c8fd2c73b0c73b","x":-457,"y":-74,"width":250,"height":60,"type":"text","text":"Leo"},
+		{"id":"1d734f7259a24281","x":-120,"y":-74,"width":250,"height":60,"type":"text","text":"Joey"},
+		{"id":"dedb9f116d1abf5c","x":-457,"y":20,"width":250,"height":60,"type":"text","text":"Is playing football"},
+		{"id":"48eebff17a7189ff","x":-120,"y":20,"width":250,"height":60,"type":"text","text":"Is reading a book"},
+		{"id":"dbe7368fe79f0254","x":-457,"y":100,"width":250,"height":60,"type":"text","text":""},
+		{"id":"30a2b639140a2e56","x":-740,"y":20,"width":250,"height":60,"type":"text","text":"1"},
+		{"id":"5f65f5f0906f57b7","x":-752,"y":88,"width":250,"height":60,"type":"text","text":"2"},
+		{"id":"5a2789f0f8e35815","x":-789,"y":183,"width":250,"height":60,"type":"text","text":"3"},
+		{"id":"840957cf8b8572a4","x":-793,"y":288,"width":250,"height":60,"type":"text","text":"4"},
+		{"id":"652869991d0a6c6f","x":-795,"y":381,"width":250,"height":60,"type":"text","text":"5"},
+		{"id":"0f7ab9ab35a69f18","x":-836,"y":462,"width":250,"height":60,"type":"text","text":"6"},
+		{"id":"0bdd08cb9308e884","x":-839,"y":534,"width":250,"height":60,"type":"text","text":"7"},
+		{"id":"e177713818da9fc2","x":-120,"y":100,"width":250,"height":60,"type":"text","text":"A ball rolls over"},
+		{"id":"3257b122c4b7bf5c","x":-120,"y":183,"width":250,"height":60,"type":"text","text":"Leo asks him to get it back"},
+		{"id":"4c6b4f59e732860f","x":-137,"y":344,"width":250,"height":67,"type":"text","text":"His kick is great"},
+		{"id":"ada8c4ef4cee2e9f","x":-137,"y":441,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2ad8966862036dd3","x":-120,"y":258,"width":250,"height":60,"type":"text","text":"Joey kicks the ball"}
+	],
+	"edges":[]
+}
