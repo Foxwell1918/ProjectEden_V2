@@ -1,4 +1,4 @@
-Tags [[Carl Gustav Jung E]], [[Psychology E]]
+Tags [[Carl Gustav Jung E]], 
 
 Anima and Animus is a pair of Jungian Archetype that forms a duality. Anima represents an unconcious feminine element, and Animus represents the unconcious masculine element.
 

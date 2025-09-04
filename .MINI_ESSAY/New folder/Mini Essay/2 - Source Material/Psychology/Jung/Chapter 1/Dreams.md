@@ -1,0 +1,5 @@
+[[Carl Gustav Jung E]]
+
+It is against this background that we must review the importance of dreams—those flimsy, evasive, unreliable, vague, and uncertain fantasies. To explain my point of view, I would like to describe how it developed over a period of years, and how I was led to conclude that dreams are the most frequent and universally accessible source for the investigation of man’s symbolizing faculty.
+
+[[Sigmund Freud]] was the pioneer who first tried to explore empirically the unconscious background of consciousness. He worked on the general assumption that **dreams are not a matter of chance but are associated with conscious thoughts and problems**. This assumption was not in the least arbitrary. It was based upon the conclusion of eminent neurologists (for instance, Pierre Janet) that neurotic symptoms are related to some conscious experience. They even appear to be split-off areas of the conscious mind, which, at another time and under different conditions, can be conscious.

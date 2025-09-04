@@ -1,4 +1,4 @@
-Tags: 
+Tags: [[Carl Gustav Jung E]] 
 
 *"What we call a symbol is a term, a name, or even a picture that may be familiar in daily life, yet that possesses specific connotations in addition to its conventional and obvious meaning. It implies something vague, unknown, or hidden from us."* -Carl Jung
 

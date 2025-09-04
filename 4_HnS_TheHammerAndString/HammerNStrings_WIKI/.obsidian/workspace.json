@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "RL/Merchant Dialogue RL 2.canvas",
+                "file": "RL/Merchant Dialogue RL.canvas",
                 "viewState": {
-                  "x": 2883.7426551023855,
-                  "y": -852.1543980381875,
-                  "zoom": -0.3576262466352775
+                  "x": 6220.91307106599,
+                  "y": 544.6548223350253,
+                  "zoom": -2.4946982487622082
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Merchant Dialogue RL 2"
+              "title": "Merchant Dialogue RL"
             }
           },
           {
@@ -221,10 +221,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad0fd54153eac7c6",
+  "active": "835c63aab9e4ebd6",
   "lastOpenFiles": [
-    "RL/Merchant Dialogue RL 1.canvas",
+    "RL/Pura Renon Dialogue.canvas",
+    "RL/Untitled.md",
     "RL/Merchant Dialogue RL 2.canvas",
+    "RL/Merchant Dialogue RL 1.canvas",
     "Outline_EC/Outline_EC.canvas",
     "RL/Merchant Dialogue RL.canvas",
     "RL",
@@ -242,7 +244,6 @@
     "Outline/Outline1.canvas",
     "Outline/Outline Template.canvas",
     "Outline",
-    "Characters/Untitled.canvas",
     "Outline.md",
     "Characters",
     "Characters/Nadia.md",

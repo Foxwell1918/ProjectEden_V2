@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b96032a349e79865",
+    "type": "split",
+    "children": [
+      {
+        "id": "3781c63811b34ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3051ccea52f6f5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Characters/Edward Welton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Edward Welton"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "921b595d87527b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "310d2d0b25e5159c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2603f9c28fcf6a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57c780123ee98684",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e02d6bd94155078f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a69459cbc98f25a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f47ebc39753a9f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ff144f4bd8509f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7 - Characters/Edward Welton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Edward Welton"
+            }
+          },
+          {
+            "id": "15f35fc0a440b644",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7 - Characters/Edward Welton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Edward Welton"
+            }
+          },
+          {
+            "id": "bf1d178a0657aa5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e3ae340eb0e10cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7 - Characters/Edward Welton.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edward Welton"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3051ccea52f6f5ad",
+  "lastOpenFiles": [
+    "6 - Main Notes (Scenes)/Weshaven Town.md",
+    "7 - Characters/Edward Welton.md",
+    "6 - Main Notes (Scenes)/Argantheia.md",
+    "8 - ScratchPages/Untitled.canvas",
+    "2 - Research/Locations",
+    "6 - Main Notes (Scenes)/Edenfield University.md",
+    "5 - Templates/Character.md",
+    "5 - Templates/Template Character.md",
+    "5 - Templates/Template Army.md",
+    "5 - Templates/Main.md",
+    "8 - ScratchPages",
+    "Welcome.md",
+    "7 - Characters",
+    "6 - Main Notes (Scenes)",
+    "5 - Templates",
+    "4 - Index",
+    "3 - Tags",
+    "2 - Research",
+    "1 - Roughs"
+  ]
+}

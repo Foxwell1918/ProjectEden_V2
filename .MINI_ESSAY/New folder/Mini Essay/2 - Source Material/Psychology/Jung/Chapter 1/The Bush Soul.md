@@ -1,0 +1,5 @@
+As anthropologists have noted, one of the most common mental derangements that occur among primitive people is what they call “the loss of a soul”—which means, as the name indicates, a noticeable disruption (or, more technically, a dissociation) of consciousness.
+
+Many primitives assume that a man has a “bush soul” as well as his own, and that this bush soul is incarnate in a wild animal or a tree, with which the human individual has some kind of psychic identity.
+
+ If the bush soul is that of an animal, the animal itself is considered as some sort of brother to the man. A man whose brother is a crocodile, for instance, is supposed to be safe when swimming a crocodile-infested river. If the bush soul is a tree, the tree is presumed to have something like parental authority over the individual concerned. In both cases an injury to the bush soul is interpreted as an injury to the man.
