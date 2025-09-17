@@ -1,6 +1,7 @@
 ---
 title: Template Plants
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Plant Name]

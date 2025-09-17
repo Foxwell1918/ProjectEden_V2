@@ -1,6 +1,7 @@
 ---
 title: Template Wands
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Conduit Name]

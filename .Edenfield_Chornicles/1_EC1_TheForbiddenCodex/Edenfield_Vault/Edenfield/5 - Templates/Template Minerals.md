@@ -1,6 +1,7 @@
 ---
 title: Template Minerals
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Mineral Name]

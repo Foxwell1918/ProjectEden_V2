@@ -1,6 +1,7 @@
 ---
 title: Template Creatures
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Creature Name]

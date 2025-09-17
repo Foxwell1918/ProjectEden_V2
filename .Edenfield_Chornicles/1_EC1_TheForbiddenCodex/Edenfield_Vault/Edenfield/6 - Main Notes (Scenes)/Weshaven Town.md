@@ -1,6 +1,8 @@
 ---
 title: Template Town
-tags: [add, your, tags]
+tags:
+  - Worldbuilding
+  - Town
 ---
 
 # Weshaven

@@ -62,7 +62,8 @@ tags:
 
 I want to make Eddie as much of an Underdog as possible, his story will embody the quote "Beauty in Simplicity" 
 ## Overview
-[Lead paragraph summarizing the character’s role in the story, notable traits, and significance to the plot.]
+
+Eddie believes that he had a curse that in every school he go to, he never got to hang out with the cool guys, but in every school he got in, he always ends up with the social rejects, and with the outcasts. Sometimes in a good way.
 
 ---
 
@@ -81,11 +82,15 @@ Eddie wears a simple work clothes. A grey wool trousers, white shirt and a brown
 
 Eddie is an Alchemy Student.
 
+Eddie fought hand-to-hand combat well quote: "Anyone with an older brother knows how to fight."
+
+Eddie is good at basic medicine, due to him helping out at the Apothecary.
+
 ---
 
 ## Background
 ### Early Life
-[Childhood, upbringing, and formative events.]
+Eddie was born into the Sil-Avon family in Solivia by the name Edoard Sil-Avon. he was adopted 
 
 ### Key Life Events
 [Major milestones, turning points, or traumatic events.]
@@ -112,7 +117,8 @@ Eddie is an Alchemy Student.
 ---
 
 ## Behind the Scenes
-[Author’s notes, inspirations, or changes during development — optional.]
+
+I see Eddie as my own Ideal Self. My own self that choses to be good.
 
 ---
 

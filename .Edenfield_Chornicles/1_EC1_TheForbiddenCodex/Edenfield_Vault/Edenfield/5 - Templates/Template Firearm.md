@@ -1,6 +1,7 @@
 ---
 title: Template Firearm
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Firearm Name]

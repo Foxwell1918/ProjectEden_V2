@@ -1,6 +1,7 @@
 ---
 title: Template War
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [War Name]

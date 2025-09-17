@@ -1,6 +1,7 @@
 ---
 title: Template Language
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Language Name]

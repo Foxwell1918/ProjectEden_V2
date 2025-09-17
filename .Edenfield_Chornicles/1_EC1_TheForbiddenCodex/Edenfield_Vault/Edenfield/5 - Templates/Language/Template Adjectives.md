@@ -1,6 +1,7 @@
 ---
 title: Template Adjectives
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Adjectives in [Language Name]

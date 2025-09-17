@@ -1,6 +1,7 @@
 ---
 title: Template Kingdom
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Kingdom Name]

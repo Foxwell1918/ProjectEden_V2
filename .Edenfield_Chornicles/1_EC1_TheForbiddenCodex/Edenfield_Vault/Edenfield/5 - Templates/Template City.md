@@ -1,6 +1,7 @@
 ---
 title: Template City
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [City Name]

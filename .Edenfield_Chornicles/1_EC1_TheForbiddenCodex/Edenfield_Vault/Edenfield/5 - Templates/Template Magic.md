@@ -1,6 +1,7 @@
 ---
 title: Template Magic
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Magic System Name]
@@ -80,6 +81,54 @@ tags: [add, your, tags]
 
 ## In the Story
 [Key moments or plotlines involving this magic system.]
+
+---
+
+## Sanderson’s First Law: "An author’s ability to solve conflict with magic is directly proportional to how well the reader understands said magic."
+- **Rules & Mechanics:**  
+  - What are the **rules** of the system?  
+  - How do practitioners learn or access it?  
+  - Are there clear **laws of operation** (alchemy, rituals, contracts, physics-like rules)?  
+- **Costs of Use:**  
+  - What does using magic **consume** (energy, life force, rare materials, emotions, time, etc.)?  
+- **Strengths of the System:**  
+  - What it does best, and where it excels.  
+
+---
+
+## Sanderson’s Second Law: "Weaknesses are more interesting than powers."
+- **Limitations:**  
+  - What magic **cannot** do (both mechanically and narratively).  
+  - Boundaries of the system.  
+- **Drawbacks / Side Effects:**  
+  - What happens if the system is pushed too far (madness, mutations, burnout, ecological damage).  
+- **Vulnerabilities:**  
+  - Weaknesses in the practitioner (need training, reliance on tools, corruption, addiction).  
+  - Weaknesses in the system itself (counter-magic, null zones, imbalance).  
+
+---
+
+## Sanderson’s Third Law: "Expand what you already have before you add something new."
+- **Interconnections:**  
+  - How does this magic system connect with other systems (if multiple exist)?  
+  - Does it overlap with religion, technology, or politics?  
+- **Applications in Daily Life:**  
+  - Beyond combat, how is it used in culture, science, trade, or everyday survival?  
+- **Creative Extensions:**  
+  - Logical extrapolations of what existing rules allow (transport, healing, communication, art).  
+
+---
+
+## In-World Lore
+- **Origins:** [How did the system come to be? Divine gift, natural evolution, ancient discovery?]  
+- **Cultural Role:** [How societies view magic—revered, feared, regulated, outlawed.]  
+- **Myths & Stories:** [Legends tied to the system’s origin and use.]  
+
+---
+
+## Examples of Magic in Action
+- **Case Study 1:** [Short scenario showing its use in solving conflict.]  
+- **Case Study 2:** [Short scenario showing failure or drawback.]  
 
 ---
 

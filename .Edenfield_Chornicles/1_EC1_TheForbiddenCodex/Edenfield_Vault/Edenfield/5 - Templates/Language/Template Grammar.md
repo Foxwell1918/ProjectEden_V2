@@ -1,6 +1,7 @@
 ---
 title: Template Grammar
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Grammar of [Language Name]

@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: [[Writing]]
+Tags: [[Writing]] #writing 
 
 # The Three Pillars of Story
 

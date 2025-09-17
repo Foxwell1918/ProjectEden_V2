@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Temp/",
+    "RL_Dialogue/",
+    "Templates/"
+  ]
+}

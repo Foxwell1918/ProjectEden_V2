@@ -1,6 +1,7 @@
 ---
 title: Template Noble
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # House [Name]

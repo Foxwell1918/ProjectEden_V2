@@ -1,6 +1,7 @@
 ---
 title: Template Character
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Character Name]

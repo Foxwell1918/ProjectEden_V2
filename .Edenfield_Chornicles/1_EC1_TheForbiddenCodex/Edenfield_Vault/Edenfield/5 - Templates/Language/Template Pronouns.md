@@ -1,6 +1,7 @@
 ---
 title: Template Pronouns
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Pronouns in [Language Name]

@@ -1,6 +1,7 @@
 ---
 title: Template Preposition
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Prepositions in [Language Name]

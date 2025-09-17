@@ -1,6 +1,7 @@
 ---
 title: Template Organisation
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Organization Name]

@@ -1,6 +1,7 @@
 ---
 title: Template History
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Historical Period Name]

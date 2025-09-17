@@ -1,4 +1,8 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "6 - Main Notes (Scenes)"
+  "newFileFolderPath": "6 - Main Notes (Scenes)",
+  "userIgnoreFilters": [
+    "5 - Templates/"
+  ],
+  "alwaysUpdateLinks": true
 }

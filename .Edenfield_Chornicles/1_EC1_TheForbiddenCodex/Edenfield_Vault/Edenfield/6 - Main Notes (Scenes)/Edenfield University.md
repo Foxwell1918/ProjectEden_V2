@@ -1,6 +1,8 @@
 ---
 title: Template Organisation
-tags: [add, your, tags]
+tags:
+  - Worldbuilding
+  - Academy
 ---
 
 # Edenfield University

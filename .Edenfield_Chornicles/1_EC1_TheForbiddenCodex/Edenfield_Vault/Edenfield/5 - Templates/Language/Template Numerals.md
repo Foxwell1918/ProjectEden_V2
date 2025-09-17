@@ -1,6 +1,7 @@
 ---
 title: Numerals
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Numerals in [Language Name]

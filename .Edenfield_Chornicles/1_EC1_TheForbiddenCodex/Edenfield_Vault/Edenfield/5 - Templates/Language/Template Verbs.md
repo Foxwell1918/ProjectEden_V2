@@ -1,11 +1,12 @@
 ---
 title: Template Verbs
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Verbs in [Language Name]
 
-This page describes the **verb system** of the [Language Name], covering conjugation, tense, aspect, mood, and other grammatical features.
+This page describes the **verb system** of the [Language Name], covering conjugation, tense, aspect, mood, and other grammatical features. 
 
 ---
 

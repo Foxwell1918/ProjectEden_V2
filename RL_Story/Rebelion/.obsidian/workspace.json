@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "9a59eb54acee71ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c394d19557c69c83",
+        "type": "tabs",
+        "dimension": 54.53460620525059,
+        "children": [
+          {
+            "id": "d51973ec4448f3ad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "RL_Dialogue/Pura Renon Dialogue.canvas",
+                "viewState": {
+                  "x": 890.5719438425216,
+                  "y": 9187.656144096614,
+                  "zoom": -0.8241779046020916
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Pura Renon Dialogue"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2e93e2dee9c0f4e",
+        "type": "split",
+        "dimension": 45.46539379474941,
+        "children": [
+          {
+            "id": "25ddb0d30e781980",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "636a93d9d0eee2c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "RL_Dialogue/Fortress/Fortress.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Fortress"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dff07836436d3185",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50e103a120104364",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character/Karma.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Karma"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0967da01815db1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c3ae581af2cfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96642801075159a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd392dfde2e334e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3483efaf83fb067",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7b9053604cfacbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb61dde723c22f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee9510f072cb5bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "deccce2f9a30c767",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5e2fb738bb0032b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9211f2165b51fc1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "4bb450430cffbc11",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9a6ddf93a4b8e86e",
+        "type": "window",
+        "children": [
+          {
+            "id": "61eec4a5c0eb7d04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "561dfe20fb6a56b0",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "50e103a120104364",
+  "lastOpenFiles": [
+    "RL_Dialogue/Pura Renon Dialogue.canvas",
+    "RL_Dialogue/Merchant Dialogue RL.canvas",
+    "Technologies/notes.md",
+    "Event_Record/Chapter 1/Untitled.md",
+    "Temp/Untitled.md",
+    "Event_Record/Chapter 1",
+    "Event_Record",
+    "Templates",
+    "Temp/[Sukawati.md",
+    "RL_Dialogue/Fortress/dialoguedump.md",
+    "Temp/Untitled",
+    "Locations/Pura Renon.md",
+    "RL_Dialogue/Fortress/Fortress.md",
+    "Character/Karma.md",
+    "Character/Aruna.md",
+    "Temp/Pasted image 20250910135212.png",
+    "Temp/Pasted image 20250910103348.png",
+    "Temp/Pasted image 20250910103324.png",
+    "Temp/Pasted image 20250910103257.png",
+    "Temp/Pasted image 20250910103251.png",
+    "Temp/Pasted image 20250910103041.png",
+    "Temp/Pasted image 20250910103011.png",
+    "Temp/Pasted image 20250910103002.png",
+    "Temp/Pasted image 20250910102957.png",
+    "Temp/Pasted image 20250910094430.png",
+    "RL_Dialogue/Fortress",
+    "RL_Dialogue/Merchant Dialogue RL 1.canvas",
+    "RL_Dialogue/Merchant Dialogue RL 2.canvas",
+    "Character/Sulinggih.md",
+    "RL_Dialogue/Untitled.md",
+    "Character/Rangda.md",
+    "Character/The Merchant.md",
+    "Locations/Sukawati.md",
+    "Temp/Untitled 2.base",
+    "Character/Astinayudha.md",
+    "Factions/Banaspati Bandits.md",
+    "Technologies/energy source.md",
+    "Character/Garuda.md",
+    "Events/bandit rebellion.md",
+    "Locations/Bali.md",
+    "Temp",
+    "Temp/Untitled 1.base",
+    "Temp/Untitled.base",
+    "Untitled",
+    "Technologies/Quantum Core.md",
+    "Events/Russia’s leading space program.md",
+    "Technologies/transhuman modifications.md",
+    "Events/San Fransico conferences.md",
+    "Events/nation leaders in 1970.md"
+  ]
+}

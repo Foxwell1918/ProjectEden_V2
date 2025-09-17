@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "6 - Main Notes"
+  "newFileFolderPath": "6 - Main Notes",
+  "userIgnoreFilters": [
+    "5 - Templates/"
+  ]
 }

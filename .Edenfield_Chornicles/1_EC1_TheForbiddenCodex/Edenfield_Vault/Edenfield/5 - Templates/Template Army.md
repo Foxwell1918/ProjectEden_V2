@@ -1,6 +1,7 @@
 ---
 title: Template Army
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Army Name]

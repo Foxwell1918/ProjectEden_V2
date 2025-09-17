@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "6 - Main Notes (Scenes)/Alchemy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy"
+            }
+          },
+          {
+            "id": "c1b405d9888dab6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "7 - Characters/Edward Welton.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Edward Welton"
             }
+          },
+          {
+            "id": "cea24c2d7bac2788",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,26 +194,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "3051ccea52f6f5ad",
+  "active": "c1b405d9888dab6b",
   "lastOpenFiles": [
-    "6 - Main Notes (Scenes)/Weshaven Town.md",
-    "7 - Characters/Edward Welton.md",
-    "6 - Main Notes (Scenes)/Argantheia.md",
-    "8 - ScratchPages/Untitled.canvas",
-    "2 - Research/Locations",
+    "10 - Ideas/The Twin Princes.md",
+    "6 - Main Notes (Scenes)/Canonical Works/Edenfield Chornicles.md",
+    "10 - Ideas",
+    "6 - Main Notes (Scenes)/Magic/Alchemy.md",
     "6 - Main Notes (Scenes)/Edenfield University.md",
-    "5 - Templates/Character.md",
-    "5 - Templates/Template Character.md",
-    "5 - Templates/Template Army.md",
-    "5 - Templates/Main.md",
-    "8 - ScratchPages",
-    "Welcome.md",
-    "7 - Characters",
-    "6 - Main Notes (Scenes)",
-    "5 - Templates",
-    "4 - Index",
-    "3 - Tags",
-    "2 - Research",
-    "1 - Roughs"
+    "6 - Main Notes (Scenes)/Canonical Works/Legend of Kathrii the Dancer.md",
+    "6 - Main Notes (Scenes)/Weshaven Town.md",
+    "6 - Main Notes (Scenes)/Faculty of Conjuration.md",
+    "6 - Main Notes (Scenes)/Canonical Works",
+    "6 - Main Notes (Scenes)/Faculty of Alchemy.md",
+    "6 - Main Notes (Scenes)/Magic/Arcane Magic.md",
+    "6 - Main Notes (Scenes)/Magic",
+    "6 - Main Notes (Scenes)/Magic/The ARCANE.md",
+    "6 - Main Notes (Scenes)/Magic/Arcane Logic.md",
+    "6 - Main Notes (Scenes)/The Grand Opera.md",
+    "6 - Main Notes (Scenes)/Magic/Abjuration.md",
+    "6 - Main Notes (Scenes)/Tags/Magic.md",
+    "6 - Main Notes (Scenes)/Tags",
+    "8 - ScratchPages/Untitled 2.canvas",
+    "5 - Templates/Template Prophecy.md",
+    "6 - Main Notes (Scenes)/Casnius Bolos.md",
+    "8 - ScratchPages/Untitled 1.canvas",
+    "8 - ScratchPages/Untitled.canvas",
+    "9 - Locations/Realm/Country/Argantheia.md",
+    "9 - Locations/Realm/Country/Solivia.md",
+    "7 - Characters/Edward Welton.md",
+    "5 - Templates/Language/Template Verbs.md",
+    "path/to/image.jpg.md",
+    "path/to",
+    "path",
+    "5 - Templates/Template Magic.md",
+    "5 - Templates/Language/Template Toponymy.md",
+    "5 - Templates/Language/Template Pronouns.md",
+    "5 - Templates/Language/Template Preposition.md",
+    "5 - Templates/Language/Template Numerals.md",
+    "9 - Locations/Realm/Country/Kingdom/Village",
+    "9 - Locations/Realm/Country/Kingdom",
+    "9 - Locations/Realm/Country",
+    "9 - Locations/Realm"
   ]
 }

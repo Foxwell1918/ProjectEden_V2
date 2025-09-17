@@ -1,6 +1,7 @@
 ---
 title: Template
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Setting Name]

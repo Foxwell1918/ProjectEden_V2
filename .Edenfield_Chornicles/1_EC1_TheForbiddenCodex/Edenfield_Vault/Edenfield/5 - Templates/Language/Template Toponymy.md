@@ -1,6 +1,7 @@
 ---
 title: Template Toponymy
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Toponymy of [Language Name]

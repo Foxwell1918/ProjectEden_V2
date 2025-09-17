@@ -1,0 +1,1 @@
+Pura Renon is a safe haven, no Troopers can attack the Pura. 

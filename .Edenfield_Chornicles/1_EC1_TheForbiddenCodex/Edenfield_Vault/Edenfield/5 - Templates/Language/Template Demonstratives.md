@@ -1,6 +1,7 @@
 ---
 title: Template Demonstratives
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Demonstratives of [Language Name]

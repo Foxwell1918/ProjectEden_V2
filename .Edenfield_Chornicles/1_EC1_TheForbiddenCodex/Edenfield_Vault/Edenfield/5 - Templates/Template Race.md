@@ -1,6 +1,7 @@
 ---
 title: Template Race
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Race/Species Name]

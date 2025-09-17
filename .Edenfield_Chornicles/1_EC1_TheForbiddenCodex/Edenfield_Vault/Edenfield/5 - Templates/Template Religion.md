@@ -1,6 +1,7 @@
 ---
 title: Template Religion
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # [Religion Name]

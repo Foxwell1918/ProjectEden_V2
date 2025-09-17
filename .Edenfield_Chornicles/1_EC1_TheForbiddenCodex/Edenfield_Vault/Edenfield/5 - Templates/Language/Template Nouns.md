@@ -1,6 +1,7 @@
 ---
 title: Template Nouns
-tags: [add, your, tags]
+tags:
+  - Template
 ---
 
 # Nouns in [Language Name]

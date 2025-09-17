@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"341cdd1269913623","type":"text","text":"Eddie","x":-529,"y":-38,"width":250,"height":60,"color":"1"},
+		{"id":"6539af0c81f0c1ad","type":"text","text":"Catherine","x":-279,"y":-38,"width":250,"height":60,"color":"4"},
+		{"id":"83a5a963dadcf205","type":"text","text":"Character: Smart, Traumatized","x":-529,"y":22,"width":250,"height":60},
+		{"id":"375168fa52d3905a","type":"text","text":"Goal: To land the job","x":-529,"y":82,"width":250,"height":60},
+		{"id":"4019f741054d563d","type":"text","text":"Obstacle: Catherine's scrutiny","x":-529,"y":142,"width":250,"height":60},
+		{"id":"1dbb93bcb0343edc","type":"text","text":"Goal: To find an Local Assistant.","x":-279,"y":82,"width":250,"height":60},
+		{"id":"29e092461d9ec3cb","type":"text","text":"Obstacle: There's too much","x":-279,"y":142,"width":250,"height":60},
+		{"id":"882970847d368114","type":"text","text":"Character: Eccentric, Blunt","x":-279,"y":22,"width":250,"height":60},
+		{"id":"007464de917be368","type":"text","text":"1 Eddie walks into the room","x":232,"y":38,"width":250,"height":60},
+		{"id":"9628588ea5f8e583","type":"text","text":"2","x":232,"y":98,"width":250,"height":60},
+		{"id":"f16196bbe374227e","type":"text","text":"3 Catherine asks him about basic theory thing","x":232,"y":162,"width":250,"height":60},
+		{"id":"1ef324c307ca5760","type":"text","text":"4 Eddie can answer","x":232,"y":222,"width":250,"height":60},
+		{"id":"1007511a7568a41d","type":"text","text":"1 Catherine is sitting at the room","x":486,"y":42,"width":250,"height":60},
+		{"id":"b75d59e8f3a2855b","type":"text","text":"2 Eddie walks in","x":486,"y":102,"width":250,"height":60},
+		{"id":"40ef52e35a878372","type":"text","text":"3 Eddie sounds like a knowledgable person, which as she learnt from his old teacher turns out correct","x":486,"y":166,"width":250,"height":116},
+		{"id":"bea966ea961efdf3","type":"text","text":"Eddie","x":236,"y":-22,"width":250,"height":60,"color":"1"},
+		{"id":"52621f267f97d732","type":"text","text":"Catherine","x":486,"y":-22,"width":250,"height":60,"color":"4"},
+		{"id":"bfd926c962e335bd","type":"text","text":"Eddie","x":-529,"y":-480,"width":250,"height":60,"color":"1"},
+		{"id":"db0c777e91a1a76a","type":"text","text":"Catherine","x":-279,"y":-480,"width":250,"height":60,"color":"4"},
+		{"id":"f05893d14ac6d46f","type":"text","text":"3 Catherine asks him about a mixed-discipline thing, mixing Alchemy and Abjuration theories","x":232,"y":286,"width":250,"height":120},
+		{"id":"1a2b078738e52c3b","type":"text","text":"5 Catherine is confident","x":228,"y":466,"width":250,"height":60},
+		{"id":"9b590e6c83436d78","type":"text","text":"4 Eddie can answer","x":228,"y":406,"width":250,"height":60},
+		{"id":"8299f4d8e582924f","type":"text","text":"6 Eddie fails to cast the spell","x":232,"y":620,"width":250,"height":60},
+		{"id":"a17c7978c1b2d09f","type":"text","text":"7","x":232,"y":680,"width":250,"height":60},
+		{"id":"6a8585e17111999c","x":232,"y":526,"width":250,"height":60,"type":"text","text":"3 But then she asks him to cast the spell in practice"},
+		{"id":"e7cf16dcad772718","type":"text","text":"4","x":486,"y":286,"width":250,"height":60},
+		{"id":"9be28d06f7ea3dcb","type":"text","text":"5","x":482,"y":346,"width":250,"height":60},
+		{"id":"a9b206058385a23c","type":"text","text":"6","x":486,"y":406,"width":250,"height":60},
+		{"id":"b0b37659357173ab","type":"text","text":"7","x":486,"y":466,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b599247d19413670","fromNode":"bfd926c962e335bd","fromSide":"top","toNode":"db0c777e91a1a76a","toSide":"top","label":"Wants job from"},
+		{"id":"b88e5eea7386d652","fromNode":"db0c777e91a1a76a","fromSide":"bottom","toNode":"bfd926c962e335bd","toSide":"bottom","label":"Try to get elidability from"}
+	]
+}
