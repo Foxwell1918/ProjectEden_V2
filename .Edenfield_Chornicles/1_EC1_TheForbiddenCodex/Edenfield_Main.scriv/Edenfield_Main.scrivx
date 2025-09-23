@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-09-17 16:59:49 +0700" ModID="A200BAAB-7B7E-4614-9659-9C3FC97CCC10">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Foxwell90" Author="Jaden Abrams" Modified="2025-09-21 20:46:25 +0700" ModID="AA232446-DC27-4B8F-97E4-4AF9182A500C">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-07 01:50:52 +0700" Modified="2021-03-04 17:13:23 +0700">
             <Title>Novel Format</Title>
@@ -846,23 +846,111 @@
                                                 <TextSelection>58,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="DFC7ACE5-F2F3-418C-8277-6EAB9B359618" Type="Text" Created="2025-09-17 15:40:40 +0700" Modified="2025-09-17 16:20:40 +0700">
-                                            <Title>Theme Stated 1</Title>
+                                        <BinderItem UUID="AA8E89F2-D9FB-48DB-94CE-9FB0F8588B14" Type="Folder" Created="2025-09-18 08:49:15 +0700" Modified="2025-09-18 08:49:19 +0700">
+                                            <Title>Theme Stated</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1596,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="CE340322-1763-4DF0-A644-1218845970FF" Type="Text" Created="2025-09-17 15:51:18 +0700" Modified="2025-09-17 16:24:11 +0700">
-                                            <Title>Theme Stated 1 V2</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>3783,0</TextSelection>
-                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="DFC7ACE5-F2F3-418C-8277-6EAB9B359618" Type="Text" Created="2025-09-17 15:40:40 +0700" Modified="2025-09-17 16:20:40 +0700">
+                                                    <Title>Theme Stated 1</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1596,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="CE340322-1763-4DF0-A644-1218845970FF" Type="Text" Created="2025-09-17 15:51:18 +0700" Modified="2025-09-17 16:24:11 +0700">
+                                                    <Title>Theme Stated 1 V2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>4840,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="72B425CA-34E6-4CD3-9B8E-692938CC1519" Type="Text" Created="2025-09-18 07:42:51 +0700" Modified="2025-09-18 08:48:00 +0700">
+                                                    <Title>Theme Stated 1 V3</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1263,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="B97E03F0-98B6-416C-96C7-782BC7C0CCB3" Type="Text" Created="2025-09-21 17:14:27 +0700" Modified="2025-09-21 20:38:18 +0700">
+                                                    <Title>Theme Stated 1 V4</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection Caret="251">235,16</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>9740,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="720C52B9-602A-458B-B3CF-522329117326" Type="Text" Created="2025-09-18 08:49:33 +0700" Modified="2025-09-18 08:57:45 +0700">
+                                                    <Title>Theme Stated 2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1336,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="8EEB0C55-1213-45EC-B1DA-A1AC0313AAFE" Type="Text" Created="2025-09-21 20:17:47 +0700" Modified="2025-09-21 20:17:47 +0700">
+                                                    <Title>Theme Stated 2-1</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1336,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="FBAB69DF-E38E-4BCC-AE68-5AF1D4354A8F" Type="Text" Created="2025-09-18 08:58:02 +0700" Modified="2025-09-18 11:27:41 +0700">
+                                                    <Title>Theme Stated 3</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>305,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1384,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="ECFC0377-800C-43BC-9A03-4E9C72F5BCD1" Type="Text" Created="2025-09-18 13:09:30 +0700" Modified="2025-09-18 13:45:42 +0700">
+                                                    <Title>Theme Stated 3 V2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>351,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>5982,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="7BB5EC86-9D2D-49EF-A921-8A92B82AD9BA" Type="Text" Created="2025-09-18 09:04:39 +0700" Modified="2025-09-18 09:09:45 +0700">
+                                                    <Title>Theme Stated 4</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>14,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1122,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="31124DCF-9E43-4BB6-A553-DBA8DDDF1955" Type="Text" Created="2025-09-18 10:51:31 +0700" Modified="2025-09-18 10:53:46 +0700">
+                                                    <Title>Theme Stated 4 V2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>14,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1880,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
                                         </BinderItem>
                                         <BinderItem UUID="A24A613B-23EF-4A4A-BD29-31D8DAAE444A" Type="Text" Created="2025-09-07 09:58:15 +0700" Modified="2025-09-07 18:07:33 +0700">
                                             <Title>Catalyst</Title>
@@ -3235,15 +3323,15 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-01-19 00:00:00 +0700" IgnoreDeadline="Yes">500000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">2000</SessionTarget>
-        <PreviousSession Words="1203" Characters="6822" Date="2025-09-17 16:59:49 +0700"/>
+        <PreviousSession Words="845" Characters="4682" Date="2025-09-21 20:46:25 +0700"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-09-17 00:00:00 +0700">
-        <DraftWordCount>1203</DraftWordCount>
-        <DraftCharCount>6822</DraftCharCount>
-        <OtherWordCount>22</OtherWordCount>
-        <OtherCharCount>111</OtherCharCount>
+    <RecentWritingHistory Date="2025-09-21 00:00:00 +0700">
+        <DraftWordCount>845</DraftWordCount>
+        <DraftCharCount>4682</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

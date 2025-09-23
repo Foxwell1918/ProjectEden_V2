@@ -1,3 +1,3 @@
-Tags: [[Grammar E]]
+Tags: [[Grammar]]
 
 What is a word?

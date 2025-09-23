@@ -1,4 +1,4 @@
-
+conc
 
 2025-09-10 15:33
 
@@ -13,4 +13,7 @@ Tags: [[Epithets TDL]]
 3. fair creature of an hour
 4. unreflecting love
 5. Tie Yourself to The Mast : Allegory to King Odysseus's fight with the sirens or against lust. "I will scream at you, insult you, order you to untie me, but whatever happens, i order you to not to."
+6. The ones that shall not grow old: The dead.
+7. For the mortals that shall not grow old
+8. Number 11: Victory, birth
 # References

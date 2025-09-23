@@ -27,10 +27,12 @@ Alchemy is a Magic System that alters the state of natural matter.
 
 Alchemical spells change the  properties of a creature , object, an environment. They might turn an enemy into a harmless creature. bolster the strength of an ally, make an object move at the caster's command, ar enhance a creature's innate healing abilities lo rapidly recover from injury.
 
+Alchemy was founded by Casnius Bolos in the Dunes of Alamiria. the land so desolate that it is scientifically unprobably for people to live there, but due to genocide, the people must live there. That is when Casnius Bolos founded how to harness the limited Arcane Energy that flows in the desert, he began to use that little energy to transfer the energy that has already existed in the materials surrounding him. His technique was known and eventually taught throughout the dunes, and eventually be called Alchemy.
+
 ---
 
 ## Etymology
-The word alchemy comes from  Old Argantheian_alkimie_, used in The Dark Age as _alchymia_. This name was itself adopted from the Alamirian word _al-kīmiyā_ (الكيمياء). The Arabic _al-kīmiyā_ in turn was a borrowing of the late Glyndorian term _khēmeía_ (χημεία), also spelled _khumeia_ (χυμεία) and _khēmía_ (χημία), with Al being the Alamirian definite article 'the',
+The word alchemy comes from  Old Argantheian _alkimie_, used in The Dark Age as _alchymia_. This name was itself adopted from the Alamirian word _al-kīmiyā_ (الكيمياء). The Alamirian _al-kīmiyā_ in turn was a borrowing of the late Glyndorian term _khēmeía_ (χημεία), also spelled _khumeia_ (χυμεία) and _khēmía_ (χημία), with Al being the Alamirian definite article 'the',
 
 Together this association can be interpreted as **'the process of Transmutation. by which to fuse or reunite with the divine or original form**'. Several etymologies have been proposed for the Glyndorian term. The first was proposed by Zosimos of Panopolis (3rd–4th centuries), who derived it from the name of a book, the _Khemeu_. Hermann Diels argued in 1914 that it rather derived from χύμα, used to describe metallic objects formed by casting.
 

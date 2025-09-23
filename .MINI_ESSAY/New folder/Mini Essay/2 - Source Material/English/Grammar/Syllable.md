@@ -1,4 +1,4 @@
-tags: [[Grammar E]]
+tags: [[Grammar]]
 
 A syllable is a sound made from one impulse of the mouth
 ex: Aa, Ba, Ta, Sa
