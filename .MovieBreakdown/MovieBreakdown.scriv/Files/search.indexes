@@ -204,6 +204,9 @@ I'll keep that in mind. Thanks.
             <Title>DOCTOR</Title>
         </Document>
         <Document ID="2E244BAC-BA25-4A0E-A2EB-4B9E4CA66B74"/>
+        <Document ID="314A1771-8969-4923-AF7E-9439AD3D52D7">
+            <Title>Finding Paradise</Title>
+        </Document>
         <Document ID="33577E20-0E9A-4958-AAB7-8BE8B4F32F07">
             <Text>DR EVA ROSALENE
 
@@ -337,6 +340,33 @@ You can create your own templates by setting up a skeletal project with the file
         <Document ID="5D59EE58-7829-49EB-B4AE-79AC662BA3A6">
             <Title>Episode 1</Title>
         </Document>
+        <Document ID="611AF99A-5EF7-4C2F-A14B-0BD080F3EA86">
+            <Title>E1S1</Title>
+            <Text>Soft music plays, The scene opens with a landscape of early morning, as the sun is peeping from two tall apartment building
+The camera then goes down, overlooking a quiet highway, on it there is an advertisement for SIGMUND CORP
+A black SEDAN car passes along, and the camera cuts
+FADE OUT.
+The same car passes a neighbourhood, the locals are walking about
+FADE OUT.
+The car is now on a quiet forested area, it is driving smoothly
+And then, a squirrel pops out of nowhere from the bush.
+The black sedan swirved, screeched, it almost merged to the left lane hitting a truck carrying flammable materials.
+And then the car hovers smoothly again.
+INT. CAR - DAY
+DR NEIL WATTS, who is clutching the overhead handle and putting his knee on the dashboard in front of him in panic, looks over to DR EVA ROSALENE and the road over and over again
+DR. NEIL WATTS
+What the fuck EVA?!
+DR. EVA ROSALENE
+That, how you keep everyone alive, including the squirrel. Hope you learned something.
+DR. NEIL WATTS
+Look, sometimes, it's either us or them.
+(straightening himself up)
+By keeping ourselves alive now, we can be around to stop more self-inflicted critter casualties later.
+(putting his finger on his temple)
+Logic
+DR. EVA ROSALENE
+Enlightening.</Text>
+        </Document>
         <Document ID="619D6263-9552-403C-B7D4-3466356E3EC6">
             <Title>Scraps</Title>
         </Document>
@@ -347,6 +377,9 @@ You can create your own templates by setting up a skeletal project with the file
             <Text>LILY
 
 Motherly and polite</Text>
+        </Document>
+        <Document ID="879EBEB6-7CBD-4F5F-AD64-38B16C3AAD66">
+            <Title>To The Moon</Title>
         </Document>
         <Document ID="8E4404F9-1F6E-447D-85BF-D5A7880E6ACC">
             <Title>Sample Script</Title>
@@ -562,6 +595,9 @@ More explorative</Text>
 
 He is more sarcastic and eccentric</Text>
         </Document>
+        <Document ID="D9DE75A8-689A-42F0-9597-6E1FC85F5F1F">
+            <Title>To The Moon</Title>
+        </Document>
         <Document ID="E1C67996-7695-4755-8958-B0EFCD092AD2">
             <Title>Setting Sketch</Title>
             <Text>Name of Setting
@@ -577,6 +613,9 @@ Smell:
 Notes:
 
 </Text>
+        </Document>
+        <Document ID="F0541884-0B64-4C5F-8D7B-3B596D6FEB41">
+            <Title>E1S5</Title>
         </Document>
         <Document ID="F3045749-39A4-4AAC-A811-0BB82B37EE33">
             <Title>Episode 1</Title>
