@@ -6,74 +6,42 @@
       {
         "id": "c394d19557c69c83",
         "type": "tabs",
-        "dimension": 54.53460620525059,
         "children": [
           {
             "id": "d51973ec4448f3ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RL_Dialogue/Pura Renon Dialogue.canvas",
-                "viewState": {
-                  "x": 890.5719438425216,
-                  "y": 9187.656144096614,
-                  "zoom": -0.8241779046020916
-                }
+                "file": "1 - Character/3 - Enemy/Jaggernaut.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Pura Renon Dialogue"
+              "icon": "lucide-file",
+              "title": "Jaggernaut"
             }
           }
         ]
       },
       {
-        "id": "a2e93e2dee9c0f4e",
-        "type": "split",
-        "dimension": 45.46539379474941,
+        "id": "94ff6bd69d7074e1",
+        "type": "tabs",
         "children": [
           {
-            "id": "25ddb0d30e781980",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "636a93d9d0eee2c4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RL_Dialogue/Fortress/Fortress.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fortress"
-                }
-              }
-            ]
-          },
-          {
-            "id": "dff07836436d3185",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50e103a120104364",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Character/Karma.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Karma"
-                }
-              }
-            ]
+            "id": "368b3d1f4e343b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Character/1 - Main/Karma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karma"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "right": {
     "id": "7b9053604cfacbee",
@@ -218,58 +186,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "4bb450430cffbc11",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9a6ddf93a4b8e86e",
-        "type": "window",
-        "children": [
-          {
-            "id": "61eec4a5c0eb7d04",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "561dfe20fb6a56b0",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "50e103a120104364",
+  "active": "368b3d1f4e343b4c",
   "lastOpenFiles": [
-    "RL_Dialogue/Pura Renon Dialogue.canvas",
-    "RL_Dialogue/Merchant Dialogue RL.canvas",
-    "Technologies/notes.md",
-    "Event_Record/Chapter 1/Untitled.md",
-    "Temp/Untitled.md",
-    "Event_Record/Chapter 1",
-    "Event_Record",
-    "Templates",
-    "Temp/[Sukawati.md",
-    "RL_Dialogue/Fortress/dialoguedump.md",
-    "Temp/Untitled",
-    "Locations/Pura Renon.md",
-    "RL_Dialogue/Fortress/Fortress.md",
-    "Character/Karma.md",
-    "Character/Aruna.md",
+    "The bandit rebellion.md",
+    "1 - Character/1 - Main/Karma.md",
+    "1 - Character/3 - Enemy/Jaggernaut.md",
+    "6 - Locations/1 - Chapter 1/Operation Ravana WIP.md",
+    "3 - Events/2110.md",
+    "7 - Technologies/worldwide network of AI E.md",
+    "3 - Events/Russia’s leading space program E.md",
+    "3 - Events/San Fransico Conferences E.md",
+    "3 - Events/Nation leaders in 1970 E.md",
+    "3 - Events/Bandit Rebellion E.md",
+    "2 - Story Events/Chapter 1/Chapter 1.md",
+    "1 - Character/2 - Supporting/Kenari WIP.md",
+    "1 - Character/2 - Supporting/The Merchant.md",
+    "1 - Character/2 - Supporting/Sulinggih.md",
+    "1 - Character/2 - Supporting/Prof Astinayudha V1.md",
+    "2 - Story Events/Chapter 2/Chapter 2.md",
+    "2 - Story Events/Chapter 2/Power Rationing Aggreement.md",
+    "2 - Story Events/Chapter 2",
+    "1 - Character/2 - Supporting/Prof Astinayudha V2.md",
+    "4 - Factions/Aruna Society.md",
+    "9 - Out of Universe/notes.md",
+    "1 - Character/3 - Enemy/Rangda.md",
+    "4 - Factions/Carmine Corps/Weapons Research Department E.md",
+    "4 - Factions/Carmine Corps/Carmine Corps (HC) WIP.md",
+    "4 - Factions/Carmine Corps/Biological Research Department E.md",
+    "4 - Factions/Carmine Corps/Occult Research Department E.md",
+    "4 - Factions/Banaspati Bandits.md",
+    "Pasted image 20250926103105.png",
+    "4 - Factions/Carmine Corps/W",
+    "4 - Factions/Carmine Corps",
+    "Pasted image 20250926091644.png",
+    "7 - Technologies/weapons",
+    "3 - Events/World Events",
+    "6 - Locations/3 - Chapter 3",
+    "6 - Locations/2 - Chapter 2",
+    "6 - Locations/1 - Chapter 1",
+    "1 - Character/2 - Supporting/Untitled",
+    "1 - Character/3 - Enemy",
+    "8 - Dialogue/Pura Renon Dialogue.canvas",
+    "8 - Dialogue/Merchant Dialogue RL.canvas",
     "Temp/Pasted image 20250910135212.png",
     "Temp/Pasted image 20250910103348.png",
     "Temp/Pasted image 20250910103324.png",
@@ -278,31 +236,7 @@
     "Temp/Pasted image 20250910103041.png",
     "Temp/Pasted image 20250910103011.png",
     "Temp/Pasted image 20250910103002.png",
-    "Temp/Pasted image 20250910102957.png",
-    "Temp/Pasted image 20250910094430.png",
-    "RL_Dialogue/Fortress",
-    "RL_Dialogue/Merchant Dialogue RL 1.canvas",
-    "RL_Dialogue/Merchant Dialogue RL 2.canvas",
-    "Character/Sulinggih.md",
-    "RL_Dialogue/Untitled.md",
-    "Character/Rangda.md",
-    "Character/The Merchant.md",
-    "Locations/Sukawati.md",
-    "Temp/Untitled 2.base",
-    "Character/Astinayudha.md",
-    "Factions/Banaspati Bandits.md",
-    "Technologies/energy source.md",
-    "Character/Garuda.md",
-    "Events/bandit rebellion.md",
-    "Locations/Bali.md",
-    "Temp",
-    "Temp/Untitled 1.base",
-    "Temp/Untitled.base",
-    "Untitled",
-    "Technologies/Quantum Core.md",
-    "Events/Russia’s leading space program.md",
-    "Technologies/transhuman modifications.md",
-    "Events/San Fransico conferences.md",
-    "Events/nation leaders in 1970.md"
+    "8 - Dialogue/Merchant Dialogue RL 1.canvas",
+    "8 - Dialogue/Merchant Dialogue RL 2.canvas"
   ]
 }

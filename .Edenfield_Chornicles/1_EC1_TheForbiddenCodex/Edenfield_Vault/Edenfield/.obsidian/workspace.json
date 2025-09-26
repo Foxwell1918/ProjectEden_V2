@@ -25,28 +25,44 @@
             "id": "c1b405d9888dab6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "6 - Main Notes (Scenes)/Magic/Alchemy.md",
-                "mode": "source",
-                "source": false
+                "file": "8 - ScratchPages/Untitled 3.canvas",
+                "viewState": {
+                  "x": 210.1044393397093,
+                  "y": 465.12728449125643,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Alchemy"
-            }
-          },
-          {
-            "id": "cea24c2d7bac2788",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 3"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fe3044de70914c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea24c2d7bac2788",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "8 - ScratchPages/Untitled 3.canvas",
+                "viewState": {
+                  "x": 1904.1222028544119,
+                  "y": 217.08485530862197,
+                  "zoom": -0.30257009312304767
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 3"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +212,12 @@
   },
   "active": "c1b405d9888dab6b",
   "lastOpenFiles": [
+    "8 - ScratchPages/Untitled 3.canvas",
+    "6 - Main Notes (Scenes)/Magic/Alchemy.md",
     "7 - Characters/Edward Welton.md",
     "10 - Ideas/The Twin Princes.md",
     "6 - Main Notes (Scenes)/Canonical Works/Edenfield Chornicles.md",
     "10 - Ideas",
-    "6 - Main Notes (Scenes)/Magic/Alchemy.md",
     "6 - Main Notes (Scenes)/Edenfield University.md",
     "6 - Main Notes (Scenes)/Canonical Works/Legend of Kathrii the Dancer.md",
     "6 - Main Notes (Scenes)/Weshaven Town.md",
@@ -230,7 +247,6 @@
     "5 - Templates/Language/Template Toponymy.md",
     "5 - Templates/Language/Template Pronouns.md",
     "5 - Templates/Language/Template Preposition.md",
-    "5 - Templates/Language/Template Numerals.md",
     "9 - Locations/Realm/Country/Kingdom/Village",
     "9 - Locations/Realm/Country/Kingdom",
     "9 - Locations/Realm/Country",
